@@ -11,3 +11,6 @@ public partial class Tarea
 
     public DateTime? FechaRegistro { get; set; }
 }
+
+
+
